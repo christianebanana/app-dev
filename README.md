@@ -1,7 +1,5 @@
 # Breaking Bad
 
-![Breaking Bad Poster](https://upload.wikimedia.org/wikipedia/en/6/61/Breaking_Bad_title_card.png)
-
 ## Overview
 **Breaking Bad** is an American crime drama television series created by *Vince Gilligan*.  
 It aired from **2008 to 2013** and is widely regarded as one of the greatest TV shows of all time.
